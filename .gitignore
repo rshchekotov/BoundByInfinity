@@ -1,0 +1,6 @@
+# NixOS
+.direnv
+**/result
+
+# Secretes
+.env*
