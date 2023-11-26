@@ -1,6 +1,8 @@
 # Bound by Infinity
 
-![Bound by Infinity](./resources/logo/logo-proto-v0.png)
+<p align="center">
+    <img src="./resources/logo/logo-proto-v0.png" width="120" alt="Bound by Infinity" />
+</p>
 
 ## Development Tools
 
