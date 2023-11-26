@@ -4,3 +4,8 @@
 
 # Secretes
 .env*
+
+# Tofu
+.terraform
+*.tfstate*
+*.tfvars
